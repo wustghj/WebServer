@@ -1,0 +1,819 @@
+2022-06-18 01:26:42.022122 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:42.022402 [info]: adjust timer once
+2022-06-18 01:26:42.022435 [info]: GET / HTTP/1.1
+2022-06-18 01:26:42.022447 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:42.022449 [info]: Connection: keep-alive
+2022-06-18 01:26:42.022452 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:42.022454 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:42.022456 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:42.022459 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:42.022461 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:42.022463 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:42.022465 [info]: dnt: 1
+2022-06-18 01:26:42.022468 [info]: oop!unknow header: dnt: 1
+2022-06-18 01:26:42.022470 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:42.022472 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:42.022474 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:42.022476 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:42.022478 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:42.022481 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:42.022484 [info]: 
+2022-06-18 01:26:42.022496 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:42.022499 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2022-06-18 01:26:42.022501 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2022-06-18 01:26:42.022503 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2022-06-18 01:26:42.022609 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:42.022632 [info]: adjust timer once
+2022-06-18 01:26:42.077962 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:42.078208 [info]: adjust timer once
+2022-06-18 01:26:42.078325 [info]: GET /favicon.ico HTTP/1.1
+2022-06-18 01:26:42.078358 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:42.078366 [info]: Connection: keep-alive
+2022-06-18 01:26:42.078374 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:42.078382 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:42.078389 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:42.078397 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:42.078404 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:42.078411 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:42.078422 [info]: Referer: http://192.168.31.231:9007/
+2022-06-18 01:26:42.078432 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/
+2022-06-18 01:26:42.078443 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:42.078454 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:42.078465 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:42.078476 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:42.078487 [info]: 
+2022-06-18 01:26:42.078559 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:42.078590 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2022-06-18 01:26:42.078598 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2022-06-18 01:26:42.078605 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2022-06-18 01:26:42.079061 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:42.079184 [info]: adjust timer once
+2022-06-18 01:26:42.778678 [info]: timer tick
+2022-06-18 01:26:43.220325 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:43.220458 [info]: adjust timer once
+2022-06-18 01:26:43.220623 [info]: POST /1 HTTP/1.1
+2022-06-18 01:26:43.220733 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:43.220754 [info]: Connection: keep-alive
+2022-06-18 01:26:43.220769 [info]: Content-Length: 0
+2022-06-18 01:26:43.220832 [info]: Cache-Control: max-age=0
+2022-06-18 01:26:43.220853 [info]: oop!unknow header: Cache-Control: max-age=0
+2022-06-18 01:26:43.220867 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:43.220910 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:43.220929 [info]: Origin: http://192.168.31.231:9007
+2022-06-18 01:26:43.220940 [info]: oop!unknow header: Origin: http://192.168.31.231:9007
+2022-06-18 01:26:43.220952 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-18 01:26:43.220963 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2022-06-18 01:26:43.220975 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:43.220988 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:43.221002 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:43.221043 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:43.221062 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:43.221073 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:43.221086 [info]: Referer: http://192.168.31.231:9007/
+2022-06-18 01:26:43.221107 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/
+2022-06-18 01:26:43.221118 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:43.221128 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:43.221139 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:43.221151 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:43.221172 [info]: 
+2022-06-18 01:26:43.221295 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:43.221318 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2022-06-18 01:26:43.221330 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2022-06-18 01:26:43.221342 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2022-06-18 01:26:43.221659 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:43.221731 [info]: adjust timer once
+2022-06-18 01:26:43.271288 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:43.271337 [info]: adjust timer once
+2022-06-18 01:26:43.271361 [info]: GET /favicon.ico HTTP/1.1
+2022-06-18 01:26:43.271379 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:43.271385 [info]: Connection: keep-alive
+2022-06-18 01:26:43.271389 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:43.271393 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:43.271413 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:43.271419 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:43.271422 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:43.271426 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:43.271431 [info]: Referer: http://192.168.31.231:9007/1
+2022-06-18 01:26:43.271434 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/1
+2022-06-18 01:26:43.271438 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:43.271443 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:43.271447 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:43.271451 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:43.271454 [info]: 
+2022-06-18 01:26:43.271466 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:43.271479 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2022-06-18 01:26:43.271484 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2022-06-18 01:26:43.271487 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2022-06-18 01:26:43.271640 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:43.271654 [info]: adjust timer once
+2022-06-18 01:26:47.779350 [info]: timer tick
+2022-06-18 01:26:49.612624 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:49.612688 [info]: adjust timer once
+2022-06-18 01:26:49.612779 [info]: POST /2CGISQL.cgi HTTP/1.1
+2022-06-18 01:26:49.612800 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:49.612805 [info]: Connection: keep-alive
+2022-06-18 01:26:49.612809 [info]: Content-Length: 22
+2022-06-18 01:26:49.612814 [info]: Cache-Control: max-age=0
+2022-06-18 01:26:49.612819 [info]: oop!unknow header: Cache-Control: max-age=0
+2022-06-18 01:26:49.612823 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:49.612826 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:49.612830 [info]: Origin: http://192.168.31.231:9007
+2022-06-18 01:26:49.612835 [info]: oop!unknow header: Origin: http://192.168.31.231:9007
+2022-06-18 01:26:49.612839 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-18 01:26:49.612844 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2022-06-18 01:26:49.612849 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:49.612853 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:49.612856 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:49.612860 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:49.612864 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:49.612867 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:49.612871 [info]: Referer: http://192.168.31.231:9007/1
+2022-06-18 01:26:49.612874 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/1
+2022-06-18 01:26:49.612877 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:49.612881 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:49.612885 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:49.612888 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:49.612894 [info]: 
+2022-06-18 01:26:49.612897 [info]: user=lcc&password=0000
+2022-06-18 01:26:49.612937 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:49.612956 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+
+2022-06-18 01:26:49.612961 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+2022-06-18 01:26:49.612964 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+
+2022-06-18 01:26:49.613075 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:49.613087 [info]: adjust timer once
+2022-06-18 01:26:49.643583 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:49.643667 [info]: adjust timer once
+2022-06-18 01:26:49.643721 [info]: GET /favicon.ico HTTP/1.1
+2022-06-18 01:26:49.643734 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:49.643740 [info]: Connection: keep-alive
+2022-06-18 01:26:49.643744 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:49.643760 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:49.643765 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:49.643769 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:49.643772 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:49.643776 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:49.643779 [info]: Referer: http://192.168.31.231:9007/2CGISQL.cgi
+2022-06-18 01:26:49.643791 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/2CGISQL.cgi
+2022-06-18 01:26:49.643796 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:49.643800 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:49.643805 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:49.643816 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:49.643834 [info]: 
+2022-06-18 01:26:49.643878 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:49.643919 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2022-06-18 01:26:49.643936 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2022-06-18 01:26:49.643947 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2022-06-18 01:26:49.644467 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:49.644601 [info]: adjust timer once
+2022-06-18 01:26:51.283728 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:51.283874 [info]: adjust timer once
+2022-06-18 01:26:51.284038 [info]: POST /6 HTTP/1.1
+2022-06-18 01:26:51.284105 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:51.284122 [info]: Connection: keep-alive
+2022-06-18 01:26:51.284133 [info]: Content-Length: 0
+2022-06-18 01:26:51.284145 [info]: Cache-Control: max-age=0
+2022-06-18 01:26:51.284156 [info]: oop!unknow header: Cache-Control: max-age=0
+2022-06-18 01:26:51.284167 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:51.284185 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 01:26:51.284197 [info]: Origin: http://192.168.31.231:9007
+2022-06-18 01:26:51.284206 [info]: oop!unknow header: Origin: http://192.168.31.231:9007
+2022-06-18 01:26:51.284217 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-18 01:26:51.284224 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2022-06-18 01:26:51.284232 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:51.284238 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:51.284245 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:51.284267 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 01:26:51.284274 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:51.284281 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:51.284287 [info]: Referer: http://192.168.31.231:9007/2CGISQL.cgi
+2022-06-18 01:26:51.284294 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/2CGISQL.cgi
+2022-06-18 01:26:51.284300 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:51.284306 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:51.284312 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:51.284319 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:51.284330 [info]: 
+2022-06-18 01:26:51.284367 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:51.284375 [info]: request:HTTP/1.1 200 OK
+Content-Length:356
+
+2022-06-18 01:26:51.284381 [info]: request:HTTP/1.1 200 OK
+Content-Length:356
+Connection:keep-alive
+
+2022-06-18 01:26:51.284388 [info]: request:HTTP/1.1 200 OK
+Content-Length:356
+Connection:keep-alive
+
+
+2022-06-18 01:26:51.284718 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:51.284794 [info]: adjust timer once
+2022-06-18 01:26:51.345618 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:51.345688 [info]: GET /xxx.mp4 HTTP/1.1
+2022-06-18 01:26:51.345706 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:51.345712 [info]: Connection: keep-alive
+2022-06-18 01:26:51.345716 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:51.345720 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:51.345724 [info]: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 01:26:51.345731 [info]: oop!unknow header: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 01:26:51.345734 [info]: Accept: */*
+2022-06-18 01:26:51.345738 [info]: oop!unknow header: Accept: */*
+2022-06-18 01:26:51.345743 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:51.345747 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:51.345751 [info]: Referer: http://192.168.31.231:9007/6
+2022-06-18 01:26:51.345756 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/6
+2022-06-18 01:26:51.345760 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:51.345763 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:51.345768 [info]: Range: bytes=0-
+2022-06-18 01:26:51.345771 [info]: oop!unknow header: Range: bytes=0-
+2022-06-18 01:26:51.345775 [info]: 
+2022-06-18 01:26:51.345789 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:51.345803 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+
+2022-06-18 01:26:51.345808 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+2022-06-18 01:26:51.345812 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+
+2022-06-18 01:26:51.345820 [info]: adjust timer once
+2022-06-18 01:26:51.367136 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:51.367173 [info]: adjust timer once
+2022-06-18 01:26:51.379375 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:51.379412 [info]: adjust timer once
+2022-06-18 01:26:51.543944 [info]: deal with the client(192.168.10.1)
+2022-06-18 01:26:51.544066 [info]: adjust timer once
+2022-06-18 01:26:51.544110 [info]: GET /favicon.ico HTTP/1.1
+2022-06-18 01:26:51.544145 [info]: Host: 192.168.31.231:9007
+2022-06-18 01:26:51.544155 [info]: Connection: keep-alive
+2022-06-18 01:26:51.544180 [info]: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:51.544188 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Linux; Android 11; Redmi K30 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36
+2022-06-18 01:26:51.544195 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:51.544202 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-06-18 01:26:51.544210 [info]: X-Requested-With: mark.via
+2022-06-18 01:26:51.544216 [info]: oop!unknow header: X-Requested-With: mark.via
+2022-06-18 01:26:51.544222 [info]: Referer: http://192.168.31.231:9007/6
+2022-06-18 01:26:51.544228 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/6
+2022-06-18 01:26:51.544234 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:51.544241 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 01:26:51.544247 [info]: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:51.544253 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+2022-06-18 01:26:51.544259 [info]: 
+2022-06-18 01:26:51.544301 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 01:26:51.544309 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2022-06-18 01:26:51.544316 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2022-06-18 01:26:51.544322 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2022-06-18 01:26:51.544745 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:51.544803 [info]: adjust timer once
+2022-06-18 01:26:52.779616 [info]: timer tick
+2022-06-18 01:26:53.042512 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:53.042561 [info]: adjust timer once
+2022-06-18 01:26:54.276509 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:54.276580 [info]: adjust timer once
+2022-06-18 01:26:55.821778 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:55.821837 [info]: adjust timer once
+2022-06-18 01:26:57.188930 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:57.188990 [info]: adjust timer once
+2022-06-18 01:26:57.779930 [info]: timer tick
+2022-06-18 01:26:58.556284 [info]: send data to the client(192.168.10.1)
+2022-06-18 01:26:58.556333 [info]: adjust timer once
+2022-06-18 01:27:02.780701 [info]: timer tick
+2022-06-18 01:27:07.781899 [info]: timer tick
+2022-06-18 01:27:07.782383 [info]: close fd 17
+2022-06-18 01:27:12.783478 [info]: timer tick
+2022-06-18 01:27:17.783998 [info]: timer tick
+2022-06-18 01:27:17.784075 [info]: close fd 16
+2022-06-18 03:15:23.141025 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:15:23.141162 [info]: adjust timer once
+2022-06-18 03:15:23.141241 [info]: GET / HTTP/1.1
+2022-06-18 03:15:23.141302 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:15:23.141312 [info]: Connection: keep-alive
+2022-06-18 03:15:23.141317 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:23.141320 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:23.141324 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:23.141346 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:23.141351 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:23.141355 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:23.141359 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:23.141381 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:23.141387 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:23.141391 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:23.141394 [info]: 
+2022-06-18 03:15:23.141478 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:15:23.141498 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2022-06-18 03:15:23.141504 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2022-06-18 03:15:23.141508 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2022-06-18 03:15:23.141678 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:23.141695 [info]: adjust timer once
+2022-06-18 03:15:23.542960 [info]: timer tick
+2022-06-18 03:15:24.405980 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:15:24.406067 [info]: adjust timer once
+2022-06-18 03:15:24.406108 [info]: POST /1 HTTP/1.1
+2022-06-18 03:15:24.406176 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:15:24.406185 [info]: Connection: keep-alive
+2022-06-18 03:15:24.406189 [info]: Content-Length: 0
+2022-06-18 03:15:24.406194 [info]: Cache-Control: max-age=0
+2022-06-18 03:15:24.406198 [info]: oop!unknow header: Cache-Control: max-age=0
+2022-06-18 03:15:24.406202 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:24.406207 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:24.406211 [info]: Origin: http://192.168.31.231:9007
+2022-06-18 03:15:24.406220 [info]: oop!unknow header: Origin: http://192.168.31.231:9007
+2022-06-18 03:15:24.406225 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-18 03:15:24.406228 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2022-06-18 03:15:24.406232 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:24.406238 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:24.406242 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:24.406245 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:24.406249 [info]: Referer: http://192.168.31.231:9007/
+2022-06-18 03:15:24.406254 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/
+2022-06-18 03:15:24.406258 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:24.406261 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:24.406266 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:24.406269 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:24.406274 [info]: 
+2022-06-18 03:15:24.406351 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:15:24.406369 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+
+2022-06-18 03:15:24.406375 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+2022-06-18 03:15:24.406378 [info]: request:HTTP/1.1 200 OK
+Content-Length:725
+Connection:keep-alive
+
+
+2022-06-18 03:15:24.406778 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:24.406792 [info]: adjust timer once
+2022-06-18 03:15:27.058668 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:15:27.058750 [info]: adjust timer once
+2022-06-18 03:15:27.058786 [info]: POST /2CGISQL.cgi HTTP/1.1
+2022-06-18 03:15:27.058801 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:15:27.058805 [info]: Connection: keep-alive
+2022-06-18 03:15:27.058809 [info]: Content-Length: 22
+2022-06-18 03:15:27.058814 [info]: Cache-Control: max-age=0
+2022-06-18 03:15:27.058818 [info]: oop!unknow header: Cache-Control: max-age=0
+2022-06-18 03:15:27.058866 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:27.058872 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:27.058876 [info]: Origin: http://192.168.31.231:9007
+2022-06-18 03:15:27.058879 [info]: oop!unknow header: Origin: http://192.168.31.231:9007
+2022-06-18 03:15:27.058883 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-18 03:15:27.058887 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2022-06-18 03:15:27.058893 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:27.058907 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:27.058911 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:27.058915 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:27.058930 [info]: Referer: http://192.168.31.231:9007/1
+2022-06-18 03:15:27.058935 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/1
+2022-06-18 03:15:27.058940 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:27.058945 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:27.058950 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:27.058954 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:27.058957 [info]: 
+2022-06-18 03:15:27.058962 [info]: user=lcc&password=0000
+2022-06-18 03:15:27.059098 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:15:27.059125 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+
+2022-06-18 03:15:27.059130 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+2022-06-18 03:15:27.059134 [info]: request:HTTP/1.1 200 OK
+Content-Length:723
+Connection:keep-alive
+
+
+2022-06-18 03:15:27.059280 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:27.059299 [info]: adjust timer once
+2022-06-18 03:15:27.983608 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:15:27.983718 [info]: adjust timer once
+2022-06-18 03:15:27.983779 [info]: POST /6 HTTP/1.1
+2022-06-18 03:15:27.983828 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:15:27.983834 [info]: Connection: keep-alive
+2022-06-18 03:15:27.983839 [info]: Content-Length: 0
+2022-06-18 03:15:27.983844 [info]: Cache-Control: max-age=0
+2022-06-18 03:15:27.983849 [info]: oop!unknow header: Cache-Control: max-age=0
+2022-06-18 03:15:27.983854 [info]: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:27.983858 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-06-18 03:15:27.983863 [info]: Origin: http://192.168.31.231:9007
+2022-06-18 03:15:27.983867 [info]: oop!unknow header: Origin: http://192.168.31.231:9007
+2022-06-18 03:15:27.983871 [info]: Content-Type: application/x-www-form-urlencoded
+2022-06-18 03:15:27.983876 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2022-06-18 03:15:27.983880 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:27.983886 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:27.983890 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:27.983894 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-06-18 03:15:27.983922 [info]: Referer: http://192.168.31.231:9007/2CGISQL.cgi
+2022-06-18 03:15:27.983929 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/2CGISQL.cgi
+2022-06-18 03:15:27.983933 [info]: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:27.983936 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-06-18 03:15:27.983940 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:27.983944 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:27.983982 [info]: 
+2022-06-18 03:15:27.984013 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:15:27.984027 [info]: request:HTTP/1.1 200 OK
+Content-Length:356
+
+2022-06-18 03:15:27.984033 [info]: request:HTTP/1.1 200 OK
+Content-Length:356
+Connection:keep-alive
+
+2022-06-18 03:15:27.984036 [info]: request:HTTP/1.1 200 OK
+Content-Length:356
+Connection:keep-alive
+
+
+2022-06-18 03:15:27.984333 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:27.984377 [info]: adjust timer once
+2022-06-18 03:15:28.021607 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:15:28.021674 [info]: adjust timer once
+2022-06-18 03:15:28.021740 [info]: GET /xxx.mp4 HTTP/1.1
+2022-06-18 03:15:28.021780 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:15:28.021785 [info]: Connection: keep-alive
+2022-06-18 03:15:28.021788 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:28.021813 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:15:28.021817 [info]: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 03:15:28.021820 [info]: oop!unknow header: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 03:15:28.021822 [info]: Accept: */*
+2022-06-18 03:15:28.021825 [info]: oop!unknow header: Accept: */*
+2022-06-18 03:15:28.021827 [info]: Referer: http://192.168.31.231:9007/6
+2022-06-18 03:15:28.021833 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/6
+2022-06-18 03:15:28.021836 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:28.021838 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:15:28.021841 [info]: Range: bytes=0-
+2022-06-18 03:15:28.021843 [info]: oop!unknow header: Range: bytes=0-
+2022-06-18 03:15:28.021845 [info]: 
+2022-06-18 03:15:28.021866 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:15:28.021869 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+
+2022-06-18 03:15:28.021871 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+2022-06-18 03:15:28.021874 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+
+2022-06-18 03:15:28.060446 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:28.060529 [info]: adjust timer once
+2022-06-18 03:15:28.071457 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:28.071505 [info]: adjust timer once
+2022-06-18 03:15:28.329539 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:28.329609 [info]: adjust timer once
+2022-06-18 03:15:28.346752 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:28.346829 [info]: adjust timer once
+2022-06-18 03:15:28.543929 [info]: timer tick
+2022-06-18 03:15:29.746857 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:29.746917 [info]: adjust timer once
+2022-06-18 03:15:29.764416 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:29.764469 [info]: adjust timer once
+2022-06-18 03:15:29.783151 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:29.783206 [info]: adjust timer once
+2022-06-18 03:15:29.801591 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:29.801645 [info]: adjust timer once
+2022-06-18 03:15:29.815720 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:29.815774 [info]: adjust timer once
+2022-06-18 03:15:31.505561 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:15:31.505666 [info]: adjust timer once
+2022-06-18 03:15:33.545062 [info]: timer tick
+2022-06-18 03:15:38.545909 [info]: timer tick
+2022-06-18 03:15:38.546051 [info]: close fd 17
+2022-06-18 03:15:43.546946 [info]: timer tick
+2022-06-18 03:15:48.547749 [info]: timer tick
+2022-06-18 03:15:48.547817 [info]: close fd 16
+2022-06-18 03:16:07.629744 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:16:07.629806 [info]: adjust timer once
+2022-06-18 03:16:07.629843 [info]: GET /xxx.mp4 HTTP/1.1
+2022-06-18 03:16:07.629918 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:16:07.629926 [info]: Connection: keep-alive
+2022-06-18 03:16:07.629932 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:16:07.629936 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:16:07.629941 [info]: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 03:16:07.629947 [info]: oop!unknow header: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 03:16:07.629952 [info]: Accept: */*
+2022-06-18 03:16:07.629957 [info]: oop!unknow header: Accept: */*
+2022-06-18 03:16:07.629962 [info]: Referer: http://192.168.31.231:9007/6
+2022-06-18 03:16:07.629965 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/6
+2022-06-18 03:16:07.629969 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:16:07.629973 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:16:07.629977 [info]: Range: bytes=21931976-
+2022-06-18 03:16:07.629981 [info]: oop!unknow header: Range: bytes=21931976-
+2022-06-18 03:16:07.629985 [info]: 
+2022-06-18 03:16:07.630011 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:16:07.630024 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+
+2022-06-18 03:16:07.630030 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+2022-06-18 03:16:07.630034 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+
+2022-06-18 03:16:07.630194 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.630205 [info]: adjust timer once
+2022-06-18 03:16:07.631170 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.631184 [info]: adjust timer once
+2022-06-18 03:16:07.632233 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.632261 [info]: adjust timer once
+2022-06-18 03:16:07.633210 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.633227 [info]: adjust timer once
+2022-06-18 03:16:07.634841 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.634858 [info]: adjust timer once
+2022-06-18 03:16:07.636681 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.636700 [info]: adjust timer once
+2022-06-18 03:16:07.637699 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.637730 [info]: adjust timer once
+2022-06-18 03:16:07.642536 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.642555 [info]: adjust timer once
+2022-06-18 03:16:07.649050 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.649073 [info]: adjust timer once
+2022-06-18 03:16:07.653865 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.653883 [info]: adjust timer once
+2022-06-18 03:16:07.659951 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.659973 [info]: adjust timer once
+2022-06-18 03:16:07.665794 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.665820 [info]: adjust timer once
+2022-06-18 03:16:07.673973 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.673994 [info]: adjust timer once
+2022-06-18 03:16:07.679302 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.679324 [info]: adjust timer once
+2022-06-18 03:16:07.693064 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.693136 [info]: adjust timer once
+2022-06-18 03:16:07.700442 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.700478 [info]: adjust timer once
+2022-06-18 03:16:07.714278 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.714348 [info]: adjust timer once
+2022-06-18 03:16:07.721706 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.721738 [info]: adjust timer once
+2022-06-18 03:16:07.736021 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.736090 [info]: adjust timer once
+2022-06-18 03:16:07.750774 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.750821 [info]: adjust timer once
+2022-06-18 03:16:07.764070 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.764158 [info]: adjust timer once
+2022-06-18 03:16:07.782242 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.782418 [info]: adjust timer once
+2022-06-18 03:16:07.790116 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.790191 [info]: adjust timer once
+2022-06-18 03:16:07.800989 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.801152 [info]: adjust timer once
+2022-06-18 03:16:07.809622 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.809733 [info]: adjust timer once
+2022-06-18 03:16:07.820539 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.820789 [info]: adjust timer once
+2022-06-18 03:16:07.836284 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.836399 [info]: adjust timer once
+2022-06-18 03:16:07.850031 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.850139 [info]: adjust timer once
+2022-06-18 03:16:07.871087 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.871209 [info]: adjust timer once
+2022-06-18 03:16:07.893098 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.893226 [info]: adjust timer once
+2022-06-18 03:16:07.915096 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.915222 [info]: adjust timer once
+2022-06-18 03:16:07.933081 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.933171 [info]: adjust timer once
+2022-06-18 03:16:07.973777 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.973893 [info]: adjust timer once
+2022-06-18 03:16:07.988656 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:07.988747 [info]: adjust timer once
+2022-06-18 03:16:08.550096 [info]: timer tick
+2022-06-18 03:16:09.751671 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:09.751718 [info]: adjust timer once
+2022-06-18 03:16:11.220919 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:11.221013 [info]: adjust timer once
+2022-06-18 03:16:12.565627 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:12.565743 [info]: adjust timer once
+2022-06-18 03:16:13.551062 [info]: timer tick
+2022-06-18 03:16:14.001964 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:14.002084 [info]: adjust timer once
+2022-06-18 03:16:15.421861 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:15.421960 [info]: adjust timer once
+2022-06-18 03:16:16.944332 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:16.944420 [info]: adjust timer once
+2022-06-18 03:16:18.551631 [info]: timer tick
+2022-06-18 03:16:19.083180 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:19.083289 [info]: adjust timer once
+2022-06-18 03:16:20.381938 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:20.382048 [info]: adjust timer once
+2022-06-18 03:16:21.896621 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:21.896746 [info]: adjust timer once
+2022-06-18 03:16:23.552555 [info]: timer tick
+2022-06-18 03:16:24.696544 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:24.696593 [info]: adjust timer once
+2022-06-18 03:16:26.679489 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:26.679543 [info]: adjust timer once
+2022-06-18 03:16:28.553518 [info]: timer tick
+2022-06-18 03:16:28.579440 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:28.579491 [info]: adjust timer once
+2022-06-18 03:16:29.407436 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:29.407507 [info]: adjust timer once
+2022-06-18 03:16:29.982222 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:29.982275 [info]: adjust timer once
+2022-06-18 03:16:30.078916 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:30.078976 [info]: adjust timer once
+2022-06-18 03:16:30.085290 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:30.085340 [info]: adjust timer once
+2022-06-18 03:16:30.253700 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:30.253758 [info]: adjust timer once
+2022-06-18 03:16:30.750844 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:30.750898 [info]: adjust timer once
+2022-06-18 03:16:31.086095 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:31.086153 [info]: adjust timer once
+2022-06-18 03:16:31.593784 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:31.593837 [info]: adjust timer once
+2022-06-18 03:16:32.146058 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:32.146111 [info]: adjust timer once
+2022-06-18 03:16:32.686971 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:32.687031 [info]: adjust timer once
+2022-06-18 03:16:33.188210 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:33.188265 [info]: adjust timer once
+2022-06-18 03:16:33.554634 [info]: timer tick
+2022-06-18 03:16:34.345281 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:34.345361 [info]: adjust timer once
+2022-06-18 03:16:37.015439 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:37.015496 [info]: adjust timer once
+2022-06-18 03:16:38.555442 [info]: timer tick
+2022-06-18 03:16:41.388984 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:41.389064 [info]: adjust timer once
+2022-06-18 03:16:43.557446 [info]: timer tick
+2022-06-18 03:16:44.891294 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:44.891368 [info]: adjust timer once
+2022-06-18 03:16:47.846963 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:47.847054 [info]: adjust timer once
+2022-06-18 03:16:48.558165 [info]: timer tick
+2022-06-18 03:16:49.385751 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:49.385839 [info]: adjust timer once
+2022-06-18 03:16:51.085914 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:51.085971 [info]: adjust timer once
+2022-06-18 03:16:53.299707 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:53.299759 [info]: adjust timer once
+2022-06-18 03:16:53.558682 [info]: timer tick
+2022-06-18 03:16:57.188237 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:16:57.188301 [info]: adjust timer once
+2022-06-18 03:16:58.558918 [info]: timer tick
+2022-06-18 03:17:00.748411 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:17:00.748489 [info]: adjust timer once
+2022-06-18 03:17:02.848130 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:17:02.848198 [info]: adjust timer once
+2022-06-18 03:17:03.559258 [info]: timer tick
+2022-06-18 03:17:05.647021 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:17:05.647096 [info]: adjust timer once
+2022-06-18 03:17:08.226162 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:17:08.226242 [info]: adjust timer once
+2022-06-18 03:17:08.559904 [info]: timer tick
+2022-06-18 03:17:11.096438 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:17:11.096503 [info]: adjust timer once
+2022-06-18 03:17:13.560758 [info]: timer tick
+2022-06-18 03:17:18.561576 [info]: timer tick
+2022-06-18 03:17:23.561726 [info]: timer tick
+2022-06-18 03:17:28.562121 [info]: timer tick
+2022-06-18 03:17:28.562298 [info]: close fd 16
+2022-06-18 03:23:12.689869 [info]: deal with the client(192.168.10.1)
+2022-06-18 03:23:12.689947 [info]: GET /xxx.mp4 HTTP/1.1
+2022-06-18 03:23:12.689959 [info]: Host: 192.168.31.231:9007
+2022-06-18 03:23:12.689977 [info]: Connection: keep-alive
+2022-06-18 03:23:12.689981 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:23:12.689985 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41
+2022-06-18 03:23:12.689988 [info]: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 03:23:12.689992 [info]: oop!unknow header: Accept-Encoding: identity;q=1, *;q=0
+2022-06-18 03:23:12.689995 [info]: Accept: */*
+2022-06-18 03:23:12.689999 [info]: oop!unknow header: Accept: */*
+2022-06-18 03:23:12.690014 [info]: Referer: http://192.168.31.231:9007/6
+2022-06-18 03:23:12.690017 [info]: oop!unknow header: Referer: http://192.168.31.231:9007/6
+2022-06-18 03:23:12.690021 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:23:12.690024 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-06-18 03:23:12.690028 [info]: Range: bytes=0-
+2022-06-18 03:23:12.690031 [info]: oop!unknow header: Range: bytes=0-
+2022-06-18 03:23:12.690048 [info]: 
+2022-06-18 03:23:12.690073 [info]: request:HTTP/1.1 200 OK
+
+2022-06-18 03:23:12.690079 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+
+2022-06-18 03:23:12.690083 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+2022-06-18 03:23:12.690096 [info]: request:HTTP/1.1 200 OK
+Content-Length:110343348
+Connection:keep-alive
+
+
+2022-06-18 03:23:12.690106 [info]: adjust timer once
+2022-06-18 03:23:12.710923 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:12.710999 [info]: adjust timer once
+2022-06-18 03:23:12.718826 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:12.718885 [info]: adjust timer once
+2022-06-18 03:23:12.736937 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:12.736997 [info]: adjust timer once
+2022-06-18 03:23:12.754510 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:12.754546 [info]: adjust timer once
+2022-06-18 03:23:12.870933 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:12.871017 [info]: adjust timer once
+2022-06-18 03:23:13.605339 [info]: timer tick
+2022-06-18 03:23:15.424645 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:15.424723 [info]: adjust timer once
+2022-06-18 03:23:15.436415 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:15.436484 [info]: adjust timer once
+2022-06-18 03:23:18.605875 [info]: timer tick
+2022-06-18 03:23:19.692522 [info]: send data to the client(192.168.10.1)
+2022-06-18 03:23:19.692671 [info]: adjust timer once
+2022-06-18 03:23:22.874715 [info]: close fd 16
